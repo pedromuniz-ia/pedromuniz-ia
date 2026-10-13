@@ -19,7 +19,7 @@ Construo automações com IA para negócios: agentes que atendem no WhatsApp, fl
 ### Projetos em destaque
 
 - [dark-video-api](https://github.com/pedromuniz-ia/dark-video-api): API em FastAPI que gera vídeos documentais com narração e imagens
-- [transcriptok](https://github.com/pedromuniz-ia/transcriptok): transcrição, download e análise de vídeos curtos com Whisper e LLM
+- [short-video-transcription-platform](https://github.com/pedromuniz-ia/short-video-transcription-platform): transcrição, download e análise de vídeos curtos com Whisper e LLM
 - [qwenproxy](https://github.com/pedromuniz-ia/qwenproxy): proxy compatível com a API da OpenAI para modelos Qwen, com várias contas
 - [bot-linkedin](https://github.com/pedromuniz-ia/bot-linkedin): bot em Python que automatiza busca de perfis, conexões e mensagens no LinkedIn
 - [ScrapingB3](https://github.com/pedromuniz-ia/ScrapingB3): extração de dados de ativos da B3 com Selenium
