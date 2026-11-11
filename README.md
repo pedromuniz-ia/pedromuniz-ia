@@ -1,6 +1,6 @@
 ## Pedro Muniz
 
-**Engenheiro de IA aplicada: ponho agentes e automações em produção para negócios reais.**
+**Trabalho com IA aplicada: construo e mantenho agentes e automações em produção para negócios reais.**
 
 Comecei com Python, scraping e automação de tarefas, e hoje junto isso com LLMs. A maior parte do que construo roda para clientes e fica em repositórios privados.
 
